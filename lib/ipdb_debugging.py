@@ -3,5 +3,6 @@
 import ipdb
 
 def plus_two(num):
-    num + 2
-    return num
+    add=num + 2
+    return add
+print("the sum of 2+2 is",plus_two(2))
